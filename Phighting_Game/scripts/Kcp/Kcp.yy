@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Kcp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Kcp",
+  "parent":{
+    "name":"shortcuts",
+    "path":"folders/Scripts/shortcuts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
