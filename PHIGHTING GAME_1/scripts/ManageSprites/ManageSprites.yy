@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ManageSprites",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ManageSprites",
+  "parent":{
+    "name":"Characters",
+    "path":"folders/Scripts/Characters.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

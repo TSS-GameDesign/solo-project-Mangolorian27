@@ -1,0 +1,1 @@
+g_variables.set_globals();

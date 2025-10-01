@@ -1,0 +1,1 @@
+vspd = real(keyboard_check(ord("Left"))) - real(keyboard_check(ord("Right")));
