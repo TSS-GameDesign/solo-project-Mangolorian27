@@ -5,10 +5,24 @@ Attack,
 }
 hspd = 0;
 vspd = 0;
-grv = global.Gravity_Force;
+if (!variable_global_exists(global.Gravity_Force))
+{
+	grv = global.Gravity_Force;
+}
+else
+{
+	grv = 2.0;
+}
 
-character = global.CHAR_1;
-controller = global.CONT_P1;
+if (!variable_global_exists(global.Char_1))
+{
+	character = global.Char_1;
+}
+else
+{
+	character = 0;	
+}
+controller = global.Cont_P1;
 
 opponent = noone;
 
