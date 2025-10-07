@@ -1,1 +1,1 @@
-room_goto(ro_game)
+room_goto(character_select)

@@ -1,0 +1,1 @@
+P1 = instance_create_layer(160,160, "Instances_1", obj_player)

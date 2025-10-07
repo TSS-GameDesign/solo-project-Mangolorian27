@@ -28,3 +28,6 @@ opponent = noone;
 
 state = States.Idle;
 
+Maxhealth = 100
+
+Current_health = 50

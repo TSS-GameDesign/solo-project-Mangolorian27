@@ -36,6 +36,7 @@
   },
   "name":"PHIGHTING GAME_1",
   "resources":[
+    {"id":{"name":"CombatManager","path":"objects/CombatManager/CombatManager.yy",},},
     {"id":{"name":"GameManager","path":"objects/GameManager/GameManager.yy",},},
     {"id":{"name":"obj_Char1_icon","path":"objects/obj_Char1_icon/obj_Char1_icon.yy",},},
     {"id":{"name":"obj_Char2_icon","path":"objects/obj_Char2_icon/obj_Char2_icon.yy",},},
@@ -57,6 +58,7 @@
     {"id":{"name":"Char4_Icon","path":"sprites/Char4_Icon/Char4_Icon.yy",},},
     {"id":{"name":"CharRandom_icon","path":"sprites/CharRandom_icon/CharRandom_icon.yy",},},
     {"id":{"name":"spr_Exit","path":"sprites/spr_Exit/spr_Exit.yy",},},
+    {"id":{"name":"spr_Hp_Bar","path":"sprites/spr_Hp_Bar/spr_Hp_Bar.yy",},},
     {"id":{"name":"spr_idle","path":"sprites/spr_idle/spr_idle.yy",},},
     {"id":{"name":"spr_stage1","path":"sprites/spr_stage1/spr_stage1.yy",},},
     {"id":{"name":"spr_Start","path":"sprites/spr_Start/spr_Start.yy",},},
