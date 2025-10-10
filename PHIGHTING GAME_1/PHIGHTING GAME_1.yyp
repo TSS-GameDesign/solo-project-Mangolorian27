@@ -36,6 +36,7 @@
   },
   "name":"PHIGHTING GAME_1",
   "resources":[
+    {"id":{"name":"Timer","path":"fonts/Timer/Timer.yy",},},
     {"id":{"name":"CombatManager","path":"objects/CombatManager/CombatManager.yy",},},
     {"id":{"name":"GameManager","path":"objects/GameManager/GameManager.yy",},},
     {"id":{"name":"obj_Char1_icon","path":"objects/obj_Char1_icon/obj_Char1_icon.yy",},},
@@ -47,6 +48,7 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},},
     {"id":{"name":"obj_Start","path":"objects/obj_Start/obj_Start.yy",},},
+    {"id":{"name":"obj_timer_box","path":"objects/obj_timer_box/obj_timer_box.yy",},},
     {"id":{"name":"character_select","path":"rooms/character_select/character_select.yy",},},
     {"id":{"name":"ro_game","path":"rooms/ro_game/ro_game.yy",},},
     {"id":{"name":"start_room","path":"rooms/start_room/start_room.yy",},},
@@ -62,6 +64,7 @@
     {"id":{"name":"spr_idle","path":"sprites/spr_idle/spr_idle.yy",},},
     {"id":{"name":"spr_stage1","path":"sprites/spr_stage1/spr_stage1.yy",},},
     {"id":{"name":"spr_Start","path":"sprites/spr_Start/spr_Start.yy",},},
+    {"id":{"name":"spr_timer_box","path":"sprites/spr_timer_box/spr_timer_box.yy",},},
     {"id":{"name":"Spr_Title","path":"sprites/Spr_Title/Spr_Title.yy",},},
     {"id":{"name":"spr_walk_back","path":"sprites/spr_walk_back/spr_walk_back.yy",},},
     {"id":{"name":"spr_walk","path":"sprites/spr_walk/spr_walk.yy",},},
