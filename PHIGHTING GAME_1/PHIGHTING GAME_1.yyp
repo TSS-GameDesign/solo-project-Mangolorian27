@@ -45,10 +45,12 @@
     {"id":{"name":"obj_Char4_icon","path":"objects/obj_Char4_icon/obj_Char4_icon.yy",},},
     {"id":{"name":"obj_CharRandom_icon","path":"objects/obj_CharRandom_icon/obj_CharRandom_icon.yy",},},
     {"id":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},},
+    {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},},
     {"id":{"name":"obj_Start","path":"objects/obj_Start/obj_Start.yy",},},
     {"id":{"name":"obj_timer_box","path":"objects/obj_timer_box/obj_timer_box.yy",},},
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"character_select","path":"rooms/character_select/character_select.yy",},},
     {"id":{"name":"ro_game","path":"rooms/ro_game/ro_game.yy",},},
     {"id":{"name":"start_room","path":"rooms/start_room/start_room.yy",},},
@@ -73,8 +75,8 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"start_room","path":"rooms/start_room/start_room.yy",},},
-    {"roomId":{"name":"ro_game","path":"rooms/ro_game/ro_game.yy",},},
     {"roomId":{"name":"character_select","path":"rooms/character_select/character_select.yy",},},
+    {"roomId":{"name":"ro_game","path":"rooms/ro_game/ro_game.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

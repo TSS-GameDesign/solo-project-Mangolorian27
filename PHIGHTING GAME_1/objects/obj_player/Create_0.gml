@@ -3,6 +3,7 @@ enum States{
 Idle, 
 Attack,
 }
+grounded = true
 hspd = 0;
 vspd = 0;
 if (!variable_global_exists(global.Gravity_Force))
