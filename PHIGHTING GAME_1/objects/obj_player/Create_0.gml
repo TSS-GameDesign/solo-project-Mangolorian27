@@ -2,6 +2,7 @@
 enum States{
 Idle, 
 Attack,
+Dead,
 }
 grounded = true
 hspd = 0;
@@ -15,14 +16,6 @@ else
 	grv = 2.0;
 }
 
-if (!variable_global_exists(global.Char_1))
-{
-	character = global.Char_1;
-}
-else
-{
-	character = 0;	
-}
 controller = global.Cont_P1;
 
 opponent = noone;

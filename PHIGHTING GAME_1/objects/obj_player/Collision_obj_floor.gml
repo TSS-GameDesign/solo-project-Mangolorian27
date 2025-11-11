@@ -1,3 +1,3 @@
 grounded = true
 
-show_debug_message("On Ground")
+//show_debug_message("On Ground")

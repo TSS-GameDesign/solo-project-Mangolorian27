@@ -1,7 +1,5 @@
-global.Char_1 = 0;
-global.Char_2 = 1;
-global.Char_3 = 2;
-global.Char_4 = 3;
+global.P1_Char = 0; // what characters are being used by each player.
+global.P2_Char = 0; // used to spawnchars and check for interactions
 
 global.Gravity_Force = 0.5;
 global.Walk_spd = 2;
