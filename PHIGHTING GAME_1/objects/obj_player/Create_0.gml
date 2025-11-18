@@ -25,3 +25,7 @@ state = States.Idle;
 Maxhealth = 100
 
 Current_health = 50
+
+hitbox_count = 0;
+active_hitboxes = [];
+

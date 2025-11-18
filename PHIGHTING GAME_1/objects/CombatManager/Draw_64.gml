@@ -1,4 +1,4 @@
-w = window_get_width();
+var w = window_get_width();
 
 // Draw backdropHP for P1
 draw_sprite_stretched_ext(spr_Hp_Bar, 0, 20, 20, w/3, 50, c_white, 1)

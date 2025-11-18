@@ -13,3 +13,7 @@ if Current_health <= 0
 	state = States.Dead
 	
 }
+if state != States.Attack
+{
+	
+}
