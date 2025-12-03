@@ -17,3 +17,9 @@ if state != States.Attack
 {
 	
 }
+opponent = collision_rectangle(0,0, room_width, room_height, obj_player, false ,true)
+if opponent != noone{
+	if opponent.x >= x{Facing = Directions.Right}
+	
+	if opponent.x <= x{Facing = Directions.Left}
+}

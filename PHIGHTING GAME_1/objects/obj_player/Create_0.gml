@@ -4,6 +4,11 @@ Idle,
 Attack,
 Dead,
 }
+enum Directions{
+Right,
+Left,
+}
+Facing = Directions.Right
 grounded = true
 hspd = 0;
 vspd = 0;
