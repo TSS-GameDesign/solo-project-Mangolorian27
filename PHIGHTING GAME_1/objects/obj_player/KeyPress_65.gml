@@ -10,6 +10,7 @@ if state != States.Attack
 		attack_hitbox.x += 20;
 		if attack_hitbox.image_xscale < 0
 			attack_hitbox.image_xscale *= -1
+			hitbox_count++;
 		array_push(active_hitboxes, attack_hitbox);
 	}
 
@@ -18,9 +19,9 @@ if state != States.Attack
 		attack_hitbox.x -= 20
 		if attack_hitbox.image_xscale > 0
 			attack_hitbox.image_xscale *= -1
+			hitbox_count++;
 		array_push(active_hitboxes, attack_hitbox);
 	}
-	hitbox_count++;
 	alarm[0] = 4
 }
 

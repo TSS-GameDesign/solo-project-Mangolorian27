@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_Exit",
-    "path":"sprites/spr_Exit/spr_Exit.yy",
+    "name":"Sprite16",
+    "path":"sprites/Sprite16/Sprite16.yy",
   },
   "spriteMaskId":null,
   "visible":false,
